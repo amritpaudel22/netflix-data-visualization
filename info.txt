@@ -1,0 +1,10 @@
+use data from netflix and visualize data to find various conclusion
+steps:
+1)load data using pandas
+2)data cleaning
+    handle missing data,clear duplicate etc
+3)understanding the data 
+    using head(),info(),describe() etc to explore the dataset
+4)identifying things/data to find from the given datasets
+5)data visualization
+6)Saving
